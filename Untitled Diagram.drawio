@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T19:58:58.194Z" agent="5.0 (Windows)" etag="wLrxd5U-hFzGryKje5bH" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T21:30:48.624Z" agent="5.0 (Windows)" etag="M7dpVQZ64N4hJigtzpDb" version="13.9.7" type="github" pages="3">
   <diagram id="OXSFSuDFRPRb5TJoj2du" name="Page-1">
     <mxGraphModel dx="1737" dy="2008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,6 +93,31 @@
         <mxCell id="Zxtm8UmjWwIu1WwOdkux-30" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="285" y="-370" width="30" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GpLYZG3z-ocb1kUWFQhP" name="Зарегистрировать покупку шин Nokian на портале поставщика шин">
+    <mxGraphModel dx="1216" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Suz31Z7P9t03JMRxkVpI-0" />
+        <mxCell id="Suz31Z7P9t03JMRxkVpI-1" parent="Suz31Z7P9t03JMRxkVpI-0" />
+        <mxCell id="Suz31Z7P9t03JMRxkVpI-2" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="Suz31Z7P9t03JMRxkVpI-1">
+          <mxGeometry x="100" y="40" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Suz31Z7P9t03JMRxkVpI-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Suz31Z7P9t03JMRxkVpI-1">
+          <mxGeometry x="340" y="260" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Suz31Z7P9t03JMRxkVpI-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Suz31Z7P9t03JMRxkVpI-1">
+          <mxGeometry x="145" y="80" width="10" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="REBAkj5M8bMt8ncS_7nS" name="Состояние товара при маркировке">
+    <mxGraphModel dx="1216" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="uS2SPfv10FnM0PCq9-r5-0" />
+        <mxCell id="uS2SPfv10FnM0PCq9-r5-1" parent="uS2SPfv10FnM0PCq9-r5-0" />
       </root>
     </mxGraphModel>
   </diagram>
