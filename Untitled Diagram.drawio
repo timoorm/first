@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T14:41:03.800Z" agent="5.0 (Windows)" etag="hiLFiSIoZfSqlqqQufqw" version="13.9.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-16T15:08:06.765Z" agent="5.0 (Windows)" etag="0-9yXcfaEs5Vvz2YWalJ" version="13.9.8" type="github" pages="4">
   <diagram id="OXSFSuDFRPRb5TJoj2du" name="Page-1">
     <mxGraphModel dx="1216" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -294,10 +294,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PsXPgBFYrxCHTCpqf4ll-3" value="Введен в оборот" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uS2SPfv10FnM0PCq9-r5-1">
-          <mxGeometry x="370" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="379" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PsXPgBFYrxCHTCpqf4ll-4" value="Выведен из оборота" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uS2SPfv10FnM0PCq9-r5-1">
-          <mxGeometry x="370" y="442" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="461" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PsXPgBFYrxCHTCpqf4ll-6" value="Перемаркирован" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uS2SPfv10FnM0PCq9-r5-1">
           <mxGeometry x="503" y="240" width="120" height="40" as="geometry" />
@@ -308,7 +308,7 @@
             <mxPoint x="450" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PsXPgBFYrxCHTCpqf4ll-19" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Информация &lt;/font&gt;о маркированных &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;товарах &lt;/font&gt;отправлена в &lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;ИС &lt;font style=&quot;font-size: 10px&quot;&gt;МШ&lt;/font&gt;«Честный знак».&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PsXPgBFYrxCHTCpqf4ll-15">
+        <mxCell id="PsXPgBFYrxCHTCpqf4ll-19" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Этикетки наклеены на шины.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt; Информация &lt;/font&gt;о &lt;font style=&quot;font-size: 10px&quot;&gt;маркированных &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;товарах &lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;отправлена &lt;/font&gt;в &lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;ИС &lt;font style=&quot;font-size: 10px&quot;&gt;МШ&lt;/font&gt;«Честный знак».&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PsXPgBFYrxCHTCpqf4ll-15">
           <mxGeometry x="-0.1835" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -319,9 +319,59 @@
             <mxPoint x="450" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PsXPgBFYrxCHTCpqf4ll-20" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Информация о&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;перемаркировке товаров&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;отправлена в &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;ИС МШ &quot;Честный знак&quot;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PsXPgBFYrxCHTCpqf4ll-16">
+        <mxCell id="PsXPgBFYrxCHTCpqf4ll-20" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Этикетки наклеены на&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt; шины. Информация о&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;перемаркировке товаров&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;отправлена в &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;ИС МШ &quot;Честный знак&quot;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PsXPgBFYrxCHTCpqf4ll-16">
           <mxGeometry x="-0.1134" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jzTpKXXB5h2KDc1V8uxO" name="Варианты использования">
+    <mxGraphModel dx="1216" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="FwiI7MyZLYWddtdkLLI4-0" />
+        <mxCell id="FwiI7MyZLYWddtdkLLI4-1" parent="FwiI7MyZLYWddtdkLLI4-0" />
+        <mxCell id="FwiI7MyZLYWddtdkLLI4-2" value="Кладовщик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="FwiI7MyZLYWddtdkLLI4-1">
+          <mxGeometry x="90" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FwiI7MyZLYWddtdkLLI4-3" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="FwiI7MyZLYWddtdkLLI4-1">
+          <mxGeometry x="180" y="140" width="480" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="FwiI7MyZLYWddtdkLLI4-4" value="отразить списание шин" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="FwiI7MyZLYWddtdkLLI4-1">
+          <mxGeometry x="240" y="320" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FwiI7MyZLYWddtdkLLI4-5" value="отразить перемещение шин" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="FwiI7MyZLYWddtdkLLI4-1">
+          <mxGeometry x="274" y="230" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FwiI7MyZLYWddtdkLLI4-6" value="отразить поступление шин" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="FwiI7MyZLYWddtdkLLI4-1">
+          <mxGeometry x="240" y="150" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FwiI7MyZLYWddtdkLLI4-7" value="контролировать остатки шин" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="FwiI7MyZLYWddtdkLLI4-1">
+          <mxGeometry x="440" y="290" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FwiI7MyZLYWddtdkLLI4-11" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FwiI7MyZLYWddtdkLLI4-1" source="FwiI7MyZLYWddtdkLLI4-2" target="FwiI7MyZLYWddtdkLLI4-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="230" as="sourcePoint" />
+            <mxPoint x="440" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwiI7MyZLYWddtdkLLI4-12" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FwiI7MyZLYWddtdkLLI4-1" target="FwiI7MyZLYWddtdkLLI4-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="290.00222222222214" as="sourcePoint" />
+            <mxPoint x="240" y="187.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwiI7MyZLYWddtdkLLI4-13" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FwiI7MyZLYWddtdkLLI4-1" target="FwiI7MyZLYWddtdkLLI4-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="290.00222222222214" as="sourcePoint" />
+            <mxPoint x="274" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwiI7MyZLYWddtdkLLI4-14" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FwiI7MyZLYWddtdkLLI4-1" target="FwiI7MyZLYWddtdkLLI4-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="290.00222222222214" as="sourcePoint" />
+            <mxPoint x="240" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
