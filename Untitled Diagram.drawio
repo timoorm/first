@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T09:01:30.973Z" agent="5.0 (Windows)" etag="z8IgYrsA8c5bYzj_o09K" version="13.9.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-11-17T09:03:21.111Z" agent="5.0 (Windows)" etag="i65IOA4pp3gN-FpsxrgJ" version="13.9.9" type="github" pages="6">
   <diagram id="OXSFSuDFRPRb5TJoj2du" name="Page-1">
     <mxGraphModel dx="1216" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -496,7 +496,7 @@
           <mxGeometry x="400" y="230" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tDzqpvBnO75HJ0Jfh101-22" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Применить цены&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="tDzqpvBnO75HJ0Jfh101-1">
-          <mxGeometry x="540" y="150" width="110" height="30" as="geometry" />
+          <mxGeometry x="175" y="470" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tDzqpvBnO75HJ0Jfh101-24" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Отмена&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="tDzqpvBnO75HJ0Jfh101-1">
           <mxGeometry x="545" y="470" width="110" height="30" as="geometry" />
