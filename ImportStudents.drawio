@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T11:48:21.746Z" agent="5.0 (Windows)" etag="FCTECorqLNwZfLLUl8S9" version="14.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T11:49:40.275Z" agent="5.0 (Windows)" etag="3xR6XkCuvBLPMGsNG_cT" version="14.0.3" type="github">
   <diagram id="EDAarhyzNa9w68LSOk44" name="Page-1">
     <mxGraphModel dx="1216" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="490" y="267" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bUqKioAGvrwFDl27J8hf-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="320" width="500" height="60" as="geometry" />
+          <mxGeometry x="160" y="320" width="500" height="150" as="geometry" />
         </mxCell>
         <mxCell id="bUqKioAGvrwFDl27J8hf-15" value="&lt;font style=&quot;font-size: 9px&quot;&gt;№&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="160" y="320" width="40" height="30" as="geometry" />
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="bUqKioAGvrwFDl27J8hf-18" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Содержание сообщения&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="414" y="320" width="246" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bUqKioAGvrwFDl27J8hf-22" value="Журнал загрузки:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
