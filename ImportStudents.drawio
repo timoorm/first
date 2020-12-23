@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T11:23:54.079Z" agent="5.0 (Windows)" version="14.0.3" etag="7vAKKDbjtcqjKSKP6NUD" type="github"><diagram id="EDAarhyzNa9w68LSOk44">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-23T11:48:21.746Z" agent="5.0 (Windows)" etag="FCTECorqLNwZfLLUl8S9" version="14.0.3" type="github">
+  <diagram id="EDAarhyzNa9w68LSOk44" name="Page-1">
+    <mxGraphModel dx="1216" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bUqKioAGvrwFDl27J8hf-1" value="Загрузка данных студентов" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="110" width="550" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="bUqKioAGvrwFDl27J8hf-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="270" y="202" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bUqKioAGvrwFDl27J8hf-4" value="Имя файла" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="202" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bUqKioAGvrwFDl27J8hf-5" value="Загрузить" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="155" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bUqKioAGvrwFDl27J8hf-6" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="270" y="225" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bUqKioAGvrwFDl27J8hf-7" value="Организация" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="225" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bUqKioAGvrwFDl27J8hf-8" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="490" y="222" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bUqKioAGvrwFDl27J8hf-9" value="График" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="222" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bUqKioAGvrwFDl27J8hf-10" value="Строка начала" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="267" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bUqKioAGvrwFDl27J8hf-11" value="Строка окончания" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="267" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bUqKioAGvrwFDl27J8hf-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="267" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bUqKioAGvrwFDl27J8hf-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="267" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bUqKioAGvrwFDl27J8hf-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bUqKioAGvrwFDl27J8hf-15" value="&lt;font style=&quot;font-size: 9px&quot;&gt;№&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bUqKioAGvrwFDl27J8hf-16" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Номер строки файла&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bUqKioAGvrwFDl27J8hf-17" value="&lt;font style=&quot;font-size: 9px&quot;&gt;ФИО &lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bUqKioAGvrwFDl27J8hf-18" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Содержание сообщения&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="414" y="320" width="246" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
